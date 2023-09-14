@@ -1,1 +1,1 @@
-# calculator
+Rock paper scissors made using my not-yet-extensive knowledge of javascript
